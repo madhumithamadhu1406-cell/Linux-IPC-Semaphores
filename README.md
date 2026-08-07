@@ -82,11 +82,12 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
-![WhatsApp Image 2026-02-14 at 11 05 41 AM](https://github.com/user-attachments/assets/d2a99659-dae8-4cb2-8a4b-08a39926074f)
+<img width="532" height="693" alt="Screenshot 2026-08-07 083957" src="https://github.com/user-attachments/assets/6341a91c-26cd-458c-a8c8-214357ffc277" />
+
 
 $ ipcs
 
-![WhatsApp Image 2026-02-14 at 11 05 41 AM (1)](https://github.com/user-attachments/assets/40ff00b8-a66a-46e5-8db2-d157239e4773)
+<img width="627" height="172" alt="Screenshot 2026-08-07 084011" src="https://github.com/user-attachments/assets/70cfffcd-d6d4-403e-b185-c40e483a4d37" />
 
 
 
